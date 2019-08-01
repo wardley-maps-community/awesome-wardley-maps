@@ -9,7 +9,7 @@
 - [Courses](#courses)
 - [Events](#events)
 - [Workshops](#workshops)
-- [Communities](#communities)
+- [Community](#community)
 - [Maps in the Wild](#maps-in-the-wild)
 - [Tools and Templates](#tools-and-templates)
 - [Newsletters](#newsletters)
@@ -44,7 +44,7 @@ Resources for learning Wardley maps.
 
 - [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - workshop, rules, cards, materials.
 
-## Communities
+## Community
 
 - [Wardley Mapping Forum](https://community.wardleymaps.com/) - A place to discuss everything connected with Wardley Maps.
 
