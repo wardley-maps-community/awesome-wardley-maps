@@ -71,6 +71,8 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
 
+- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
+
 ## Newsletters
 
 - [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews)
