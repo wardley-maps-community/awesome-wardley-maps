@@ -64,6 +64,8 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 
 - [Mapping Maturity](https://maturitymapping.com/) - context specific maturity models with Wardley maps informed by Cynefin.
 
+- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) - combines Samo Burja's Empire Theory with a form of mapping similar to that pioneered by Simon Wardley.
+
 ## Tools and Templates
 
 - [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and then a fun overview of all sorts of mapping tools and techniques, informed by discussion and sharing that took place at the inaugural Map Camp.
