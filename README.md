@@ -60,8 +60,9 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 
 - [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy) - covers the development of your IT strategy using Wardley Maps to predict the future, understand which methodologies are best suited to developing and delivery information management systems. Download the [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) used to create the Handbook on IT Strategy.
 
-- [Mapping Maturity](https://maturitymapping.com/) - context specific maturity models with Wardley maps informed by Cynefin.
+- [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook) - Two use cases: giving NSOs access to new sources of (sensitive) Big Data; and enabling Big Data Collaborations Across Multiple NSO. Download [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc).
 
+- [Mapping Maturity](https://maturitymapping.com/) - context specific maturity models with Wardley maps informed by Cynefin.
 
 ## Tools and Templates
 
