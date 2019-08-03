@@ -4,15 +4,24 @@
 
 ## Contents
 
+- [Community](#community)
 - [Learning](#learning)
 - [Videos](#communities)
 - [Courses](#courses)
 - [Events](#events)
 - [Workshops](#workshops)
-- [Community](#community)
 - [Maps in the Wild](#maps-in-the-wild)
+- [Research Papers](#research-papers)
 - [Tools and Templates](#tools-and-templates)
 - [Newsletters](#newsletters)
+
+## Community
+
+- [Wardley Mapping Forum](https://community.wardleymaps.com/) - A place to discuss everything connected with Wardley Maps.
+
+- [mapcamp.slack.com](https://mapcamp.slack.com/) - Join Map Camp on Slack [here](https://map-camp-slack-invite.herokuapp.com/).
+
+- [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - Wardley Maps Community.
 
 ## Learning
 
@@ -44,14 +53,6 @@ Resources for learning Wardley maps.
 
 - [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - workshop, rules, cards, materials.
 
-## Community
-
-- [Wardley Mapping Forum](https://community.wardleymaps.com/) - A place to discuss everything connected with Wardley Maps.
-
-- [mapcamp.slack.com](https://mapcamp.slack.com/) - Join Map Camp on Slack [here](https://map-camp-slack-invite.herokuapp.com/).
-
-- [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - Wardley Maps Community.
-
 ## Maps in the Wild
 
 Blog posts and other interesting examples of Wardley maps and deriatives.
@@ -65,6 +66,10 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 - [Mapping Maturity](https://maturitymapping.com/) - context specific maturity models with Wardley maps informed by Cynefin.
 
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) - combines Samo Burja's Empire Theory with a form of mapping similar to that pioneered by Simon Wardley.
+
+## Research Papers
+
+- [Building Situational Awareness in the Age of Service Ecosystems](https://ore.exeter.ac.uk/repository/handle/10871/36643) - Pujadas, R; Thompson, M; Venters, W; et al. March 2019.
 
 ## Tools and Templates
 
