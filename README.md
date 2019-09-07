@@ -47,7 +47,7 @@ Resources for learning Wardley maps.
 
 ## Events
 
-- [Map Camp](https://www.map-camp.com/)
+- [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
 
 ## Workshops
 
