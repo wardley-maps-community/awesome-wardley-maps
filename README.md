@@ -5,7 +5,7 @@
 ## Contents
 
 - [Community](#community)
-- [Learning](#learning)
+- [Reading](#reading)
 - [Videos](#communities)
 - [Courses](#courses)
 - [Events](#events)
@@ -23,7 +23,7 @@
 
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - Wardley Maps Community.
 
-## Learning
+## Reading
 
 Resources for learning Wardley maps.
 
@@ -37,7 +37,7 @@ Resources for learning Wardley maps.
 
 ## Videos
 
-- [Wardley Maps Community YouTube Channel](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow) - A community who is willingly share knowledge rather than hoard it.
+- [Wardley Maps Community YouTube Channel](https://www.youtube.com/c/WardleyMaps) - A community who is willingly share knowledge rather than hoard it.
 
 ## Courses
 
