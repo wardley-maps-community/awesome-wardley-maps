@@ -71,6 +71,8 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 
 - [Building Situational Awareness in the Age of Service Ecosystems](https://ore.exeter.ac.uk/repository/handle/10871/36643) - Pujadas, R; Thompson, M; Venters, W; et al. March 2019.
 
+- [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping&type=Position+Paper) - A series of position papers published by the Leading Edge Forum.
+
 ## Tools and Templates
 
 - [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and then a fun overview of all sorts of mapping tools and techniques, informed by discussion and sharing that took place at the inaugural Map Camp.
