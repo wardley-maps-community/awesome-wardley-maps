@@ -6,7 +6,7 @@
 
 - [Community](#community)
 - [Reading](#reading)
-- [Videos](#communities)
+- [Videos](#videos)
 - [Courses](#courses)
 - [Events](#events)
 - [Workshops](#workshops)
