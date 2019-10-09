@@ -1,6 +1,6 @@
 # Wardley Maps  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Useful Wardley mapping resources. Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+> A Wardley map is a value chain represented on a two-dimensional diagram, where one axis shows visibility and the other evolution. Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Contents
 
