@@ -37,7 +37,7 @@ Resources for learning Wardley maps.
 
 ## Videos
 
-- [Wardley Maps Community YouTube Channel](https://www.youtube.com/c/WardleyMaps) - A community who is willingly share knowledge rather than hoard it.
+- [Wardley Maps Community YouTube Channel](https://www.youtube.com/c/WardleyMaps) - Community YouTube channel.
 
 ## Courses
 
