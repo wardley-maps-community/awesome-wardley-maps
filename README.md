@@ -30,6 +30,8 @@ Resources for learning Wardley maps.
 
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - by [Simon Wardley](https://twitter.com/swardley).
 
+- [Mapping Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
+
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - a Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - on Wikipedia.
