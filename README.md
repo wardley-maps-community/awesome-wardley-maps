@@ -88,6 +88,8 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 
 - [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley Maps in LaTeX.
 
+- [Mapscript](https://mapscript.org/ide/) - Online mapping tool.
+
 ## Newsletters
 
 - [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews)
