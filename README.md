@@ -88,6 +88,10 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 
 - [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley Maps in LaTeX.
 
+- [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
+
+- [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to Guide on mapping using this template.
+
 ## Newsletters
 
 - [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews)
