@@ -92,6 +92,8 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 
 - [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to Guide on mapping using this template.
 
+- [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
+
 ## Newsletters
 
 - [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews)
