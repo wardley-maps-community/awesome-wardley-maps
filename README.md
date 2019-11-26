@@ -22,6 +22,7 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 - [Wardley Mapping Forum](https://community.wardleymaps.com/) - A place to discuss everything connected with Wardley Maps.
 - [mapcamp.slack.com](https://mapcamp.slack.com/) - Join Map Camp on Slack [here](https://map-camp-slack-invite.herokuapp.com/).
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - Wardley Maps Community.
+- [Wardley Mapping in Belgium](https://www.meetup.com/Wardley-Mapping-In-Belgium/) - IRL Meetups on Belgian territory
 
 ## Reading
 
