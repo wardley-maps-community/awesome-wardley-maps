@@ -76,6 +76,10 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 ## Meetups
 
 - [Wardley Mapping in Belgium](https://www.meetup.com/Wardley-Mapping-In-Belgium/) - IRL Meetups on Belgian territory
+- [Wardley Mapping in Belgrade, Serbia](https://www.meetup.com/map-meetup-belgrade/) - IRL Meetups in Belgrade, Serbia
+- [Wardley Mapping in Cologne, Germany](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/) - IRL Meetups in Cologne, Germany
+- [Wardley Mapping in Hamburg, Germany](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/) - IRL Meetups in Hamburg, Germany
+- [Wardley Mapping in Munich, Germany](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/) - IRL Meetups in Munich, Germany
 
 ## Workshops
 
