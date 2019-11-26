@@ -10,11 +10,12 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 - [Reading](#reading)
 - [Videos](#videos)
 - [Courses](#courses)
-- [Events](#events)
-- [Workshops](#workshops)
 - [Maps in the Wild](#maps-in-the-wild)
 - [Research Papers](#research-papers)
 - [Tools and Templates](#tools-and-templates)
+- [Events](#events)
+- [Meetups](#meetups)
+- [Workshops](#workshops)
 - [Newsletters](#newsletters)
 
 ## Community
@@ -22,13 +23,12 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 - [Wardley Mapping Forum](https://community.wardleymaps.com/) - A place to discuss everything connected with Wardley Maps.
 - [mapcamp.slack.com](https://mapcamp.slack.com/) - Join Map Camp on Slack [here](https://map-camp-slack-invite.herokuapp.com/).
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - Wardley Maps Community.
-- [Wardley Mapping in Belgium](https://www.meetup.com/Wardley-Mapping-In-Belgium/) - IRL Meetups on Belgian territory
 
 ## Reading
 
 Resources for learning Wardley maps.
 
-- [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - by [Simon Wardley](https://twitter.com/swardley).
+- [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
 - [Mapping Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
@@ -42,14 +42,6 @@ Resources for learning Wardley maps.
 
 - [Wardley Mapping](https://learn.leadingedgeforum.com/p/wardley-mapping/?product_id=277424) - Learn how to stimulate future ideas and strategies with the Leading Edge Forum.
 - [Pragmatic Wardley Mapping](https://learn.hiredthought.com/p/wardley-mapping) - Learning the landscape of effective decision-making with Hired Thought.
-
-## Events
-
-- [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
-
-## Workshops
-
-- [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
 
 ## Maps in the Wild
 
@@ -76,6 +68,18 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
 - [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to Guide on mapping using this template.
 - [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
+
+## Events
+
+- [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
+
+## Meetups
+
+- [Wardley Mapping in Belgium](https://www.meetup.com/Wardley-Mapping-In-Belgium/) - IRL Meetups on Belgian territory
+
+## Workshops
+
+- [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
 
 ## Newsletters
 
