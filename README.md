@@ -32,7 +32,6 @@ Resources for learning Wardley maps.
 - [Mapping Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
-- [Learn Wardley Mapping](https://learnwardleymapping.com/) - A visual method for exploring, understanding, and communicating strategy under circumstances of constant change.
 
 ## Videos
 
@@ -41,7 +40,7 @@ Resources for learning Wardley maps.
 ## Courses
 
 - [Wardley Mapping](https://learn.leadingedgeforum.com/p/wardley-mapping/?product_id=277424) - Learn how to stimulate future ideas and strategies with the Leading Edge Forum.
-- [Pragmatic Wardley Mapping](https://learn.hiredthought.com/p/wardley-mapping) - Learning the landscape of effective decision-making with Hired Thought.
+- [LearnWardleyMapping.com](https://learnwardleymapping.com/) - Video chapter summaries of Simon Wardley's book, 15-minute introductory course, and a quick reference.
 
 ## Maps in the Wild
 
