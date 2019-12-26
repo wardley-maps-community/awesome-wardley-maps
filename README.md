@@ -12,7 +12,8 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 - [Courses](#courses)
 - [Maps in the Wild](#maps-in-the-wild)
 - [Research Papers](#research-papers)
-- [Tools and Templates](#tools-and-templates)
+- [Templates](#templates)
+- [Apps](#apps)
 - [Events](#events)
 - [Meetups](#meetups)
 - [Workshops](#workshops)
@@ -57,17 +58,22 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 - [Building Situational Awareness in the Age of Service Ecosystems](https://ore.exeter.ac.uk/repository/handle/10871/36643) - Pujadas, R; Thompson, M; Venters, W; et al. March 2019.
 - [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping&type=Position+Paper) - A series of position papers published by the Leading Edge Forum.
 
-## Tools and Templates
+## Templates
 
 - [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and then a fun overview of all sorts of mapping tools and techniques, informed by discussion and sharing that took place at the inaugural Map Camp.
-- [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/).
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
 - [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
 - [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley Maps in LaTeX.
-- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
 - [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to Guide on mapping using this template.
 - [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
+
+## Apps
+
+Open source Wardley mapping applications.
+
+- [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/).
+- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool.
 
 ## Events
 
