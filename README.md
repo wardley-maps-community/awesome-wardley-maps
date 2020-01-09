@@ -87,6 +87,7 @@ Open source Wardley mapping applications.
 - [Wardley Mapping in Cologne, Germany](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/) - IRL Meetups in Cologne, Germany
 - [Wardley Mapping in Hamburg, Germany](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/) - IRL Meetups in Hamburg, Germany
 - [Wardley Mapping in Munich, Germany](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/) - IRL Meetups in Munich, Germany
+- [Wardley Mapping in Amsterdam, Netherlands](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/) - IRL Meetups in Amsterdam, Netherlands
 
 ## Workshops
 
