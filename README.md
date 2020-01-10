@@ -47,9 +47,10 @@ Resources for learning Wardley maps.
 
 Blog posts and other interesting examples of Wardley maps and deriatives.
 
-- [Bits or pieces?](https://blog.gardeviance.org/) - Simon Wardley's blog.
+- [Rebooting GDS](https://medium.com/hackernoon/rebooting-gds-96b1595096fa) - How to stop the organisation from actively harming itself by focusing on doctrine and spend control.
 - [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy) - Covers the development of your IT strategy using Wardley Maps to predict the future, understand which methodologies are best suited to developing and delivery information management systems. Download the [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) used to create the Handbook on IT Strategy.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook) - Two use cases: giving NSOs access to new sources of (sensitive) Big Data; and enabling Big Data Collaborations Across Multiple NSO. Download [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc).
+- [Bits or pieces?](https://blog.gardeviance.org/) - Simon Wardley's blog.
 - [Mapping Maturity](https://maturitymapping.com/) - Context specific maturity models with Wardley maps informed by Cynefin.
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) - Combines Samo Burja's Empire Theory with a form of mapping similar to that pioneered by Simon Wardley.
 
@@ -67,7 +68,7 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
 - [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to Guide on mapping using this template.
 - [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
-- [Doctrine Grid Tool](http://justin.stach.uk/doctrine_grid_tool) - Based on Google Forms and Google Sheets.
+- [Doctrine Grid Tool](https://justin.stach.uk/doctrine_grid_tool) - Based on Google Forms and Google Sheets.
 
 ## Apps
 
