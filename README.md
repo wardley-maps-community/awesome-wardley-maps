@@ -21,7 +21,9 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 - [Newsletters](#newsletters)
 
 ## Quick Start
-- [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRUlwyS73DlT8CWSkN33J-JY) - How situational awareness can put your business on the map.
+
+- [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - How situational awareness can put your business on the map.
+- [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - in 11 diagrams by Simon Wardley.
 
 ## Community
 
@@ -30,8 +32,6 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - Wardley Maps Community.
 
 ## Reading
-
-Resources for learning Wardley maps.
 
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
 - [Mapping Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
