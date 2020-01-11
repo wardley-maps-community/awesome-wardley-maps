@@ -6,6 +6,7 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 
 ## Contents
 
+- [Quick Start](#quick-start)
 - [Community](#community)
 - [Reading](#reading)
 - [Videos](#videos)
@@ -18,6 +19,9 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 - [Meetups](#meetups)
 - [Workshops](#workshops)
 - [Newsletters](#newsletters)
+
+## Quick Start
+- [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRUlwyS73DlT8CWSkN33J-JY) - How situational awareness can put your business on the map.
 
 ## Community
 
