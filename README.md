@@ -22,7 +22,7 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 
 ## Quick Start
 
-- [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - How situational awareness can put your business on the map.
+- [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - How situational awareness can put your business on the map (5:51).
 - [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - in 11 diagrams by Simon Wardley.
 
 ## Community
@@ -41,6 +41,7 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 ## Videos
 
 - [Wardley Maps](https://www.youtube.com/c/WardleyMaps) - Community YouTube channel and [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
+- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - A visually beautiful and engaging animation by [Sue Borchardt](https://vimeo.com/researchartist).
 
 ## Courses
 
@@ -55,7 +56,7 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 - [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy) - Covers the development of your IT strategy using Wardley Maps to predict the future, understand which methodologies are best suited to developing and delivery information management systems. Download the [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) used to create the Handbook on IT Strategy.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook) - Two use cases: giving NSOs access to new sources of (sensitive) Big Data; and enabling Big Data Collaborations Across Multiple NSO. Download [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc).
 - [Bits or pieces?](https://blog.gardeviance.org/) - Simon Wardley's blog.
-- [Mapping Maturity](https://maturitymapping.com/) - Context specific maturity models with Wardley maps informed by Cynefin.
+- [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315) - Context specific maturity models with Wardley maps informed by Cynefin.
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) - Combines Samo Burja's Empire Theory with a form of mapping similar to that pioneered by Simon Wardley.
 
 ## Research Papers
