@@ -34,7 +34,8 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 ## Reading
 
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-- [Mapping Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
+  - [PDF and .mobi e-book (Kindle) download](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+- [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
 
