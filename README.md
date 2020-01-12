@@ -99,13 +99,21 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 
 ## Meetups
 
-- [Wardley Mapping in Belgium](https://www.meetup.com/Wardley-Mapping-In-Belgium/) - IRL Meetups on Belgian territory
-- [Wardley Mapping in Belgrade, Serbia](https://www.meetup.com/map-meetup-belgrade/) - IRL Meetups in Belgrade, Serbia
-- [Wardley Mapping in Cologne, Germany](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/) - IRL Meetups in Cologne, Germany
-- [Wardley Mapping in Hamburg, Germany](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/) - IRL Meetups in Hamburg, Germany
-- [Wardley Mapping in Munich, Germany](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/) - IRL Meetups in Munich, Germany
-- [Wardley Mapping in Amsterdam, Netherlands](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/) - IRL Meetups in Amsterdam, Netherlands
-
+- Europe
+  - Belgium
+    - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
+  - Germany
+    - [Cologne](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/)
+    - [Hamburg](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/)
+    - [Munich](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/)    
+  - Netherlands
+    - [Amsterdam](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/)
+  - Serbia
+    - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
+- USA
+  - California
+    - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
+  
 ## Workshops
 
 - [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
