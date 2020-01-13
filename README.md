@@ -102,6 +102,8 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 - Europe
   - Belgium
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
+  - France
+    - [Paris](https://www.meetup.com/Strategic-Map-Meetup-Paris/)
   - Germany
     - [Cologne](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/)
     - [Hamburg](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/)
