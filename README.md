@@ -54,6 +54,7 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
 
+- [Structural Deepening](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html) - Using Wardley maps to look at the evolution of the jet engine. Jan 5, 2020.
 - [Embedded in memory](https://medium.com/@swardley/embedded-in-memory-b05b0e7c183f) - Cultural cycles. Oct 2, 2019.
 - [Exploring value](https://medium.com/@swardley/exploring-value-e1ff89cfe019) - Values, resilience, principles, enablement systems. Oct 1, 2019.
 - [From values to rituals](https://medium.com/@swardley/from-values-to-rituals-b6f6ae7787bd) - Sep 9, 2019.
@@ -82,7 +83,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 ## Research Papers
 
 - [Building Situational Awareness in the Age of Service Ecosystems](https://ore.exeter.ac.uk/repository/handle/10871/36643) - Pujadas, R; Thompson, M; Venters, W; et al. March 2019.
-- [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping&type=Position+Paper) - A series of position papers published by the Leading Edge Forum.
+- [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping&type=Position+Paper) - A series of position papers published by the Leading Edge Forum. Jun 13, 2018 - Jan 28, 2019.
 
 ## Templates
 
