@@ -108,6 +108,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/).
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. Hosted version available [here](https://onlinewardleymaps.com/).
+- [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - ⚠️ Observable [Terms of Service](https://observablehq.com/terms-of-service), #3. MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 
 ### Doctrine Assessement
 
@@ -139,7 +140,6 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 ## Workshops
 
 - [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
-
 
 ## License
 
