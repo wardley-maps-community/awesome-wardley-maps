@@ -30,6 +30,7 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 - [mapcamp.slack.com](https://mapcamp.slack.com/) - Join Map Camp on Slack [here](https://map-camp-slack-invite.herokuapp.com/).
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - Wardley Maps Community.
 - [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews) - Subscribe [here](https://bit.ly/2QlF0Wx). Newsletter [archive](https://bit.ly/2P9MEPu).
+- [#WardleyMaps](https://twitter.com/search?q=%23WardleyMaps) - Join the conversation.
 
 ## Reading
 
