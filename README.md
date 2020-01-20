@@ -118,6 +118,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 ## Events
 
 - [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
+  -  [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) - Video presentations on InfoQ.
 
 ## Workshops
 
