@@ -20,6 +20,10 @@ You'll need a [GitHub account](https://github.com/join)
 
 6. Submit the [pull request](https://help.github.com/en/articles/about-pull-requests)!
 
+## Other options
+
+Prefer not to use GitHub? [Watch](https://www.youtube.com/watch?v=w79iCl0nLuY) how to contribute to the Wardley maps Awesome list by other means.
+
 ## Updating your Pull Request
 
 Sometimes, a maintainer the list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-wardley-maps list guidelines.
