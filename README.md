@@ -22,7 +22,7 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 ## Quick Start
 
 - [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - How situational awareness can put your business on the map (5:51).
-- [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - In 11 diagrams by Simon Wardley.
+- [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - In 11 diagrams by [Simon Wardley](https://twitter.com/swardley).
 
 ## Community
 
@@ -35,7 +35,7 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 ## Reading
 
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-  - [PDF and .mobi e-book (Kindle) download](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+  - PDF and .mobi e-book (Kindle) [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
 - [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
@@ -83,7 +83,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ## Research Papers
 
-- [Building Situational Awareness in the Age of Service Ecosystems](https://ore.exeter.ac.uk/repository/handle/10871/36643) - Pujadas, R; Thompson, M; Venters, W; et al. March 2019.
+- [Building Situational Awareness in the Age of Service Ecosystems](https://aisel.aisnet.org/ecis2019_rp/178/) - Pujadas, R; Thompson, M; Venters, W; et al. March 2019.
 - [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping&type=Position+Paper) - A series of position papers published by the Leading Edge Forum. Jun 13, 2018 - Jan 28, 2019.
 
 ## Templates
