@@ -70,6 +70,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) - Combines Samo Burja's Empire Theory with a form of mapping similar to that pioneered by Simon Wardley. Jan 2, 2019.
 - [What is an expert?](https://medium.com/@swardley/what-is-an-expert-886274b2c1aa) - Oct 31, 2018.
 - [Rebooting GDS](https://medium.com/hackernoon/rebooting-gds-96b1595096fa) - How to stop the organisation from actively harming itself by focusing on doctrine and spend control. Oct 30, 2018.
+- [Understanding Platforms through Value Chain Maps](https://stories.platformdesigntoolkit.com/platform-value-chain-z-shape-385f759faffa) - Why is a Platforms' Wardley (Value Chain) Map Z-Shaped? Oct 11, 2018.
 - [Healthcare information technology strategy](https://wardle.org/strategy/2018/07/19/mapping.html) - How can we make best use of technology to support healthcare? Jul 19, 2018.
 - [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315) - Context specific maturity models with Wardley maps informed by Cynefin. May 11, 2018.
 - [Uber, the not so disrupting disruptor?](https://medium.com/@swardley/uber-the-not-so-disrupting-disruptor-f03ecbb1330a) - Sep 11, 2017.
