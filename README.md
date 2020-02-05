@@ -62,6 +62,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Exploring Brexit](https://medium.com/@swardley/exploring-brexit-2ea2f3f283c8) - The first rule of Brexit is “you’re wrong”. Sep 5, 2019.
 - [Exploring Culture](https://medium.com/@swardley/mapping-culture-ac164c0e17f0) - Mapping Culture. Sep 4, 2019.
 - [What culture is right for you?](https://medium.com/@swardley/what-culture-is-right-for-you-ba892f1f3bc5) - Jul 31, 2019.
+- [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/) - Mapping "Who Says Elephants Can't Dance" by Louis Gerstner. Jun 18, 2019.
 - [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/) - Mapping the challenges of launching novel payment solutions. Jun 14, 2019.
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/) - Understanding the crypto ecosystem through Wardley maps. Jun 2, 2019.
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/) - The Green Web Foundation. Mar 20, 2019.
