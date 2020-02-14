@@ -152,6 +152,9 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - USA
   - California
     - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
+- Canada
+  - Quebec
+    - Montreal, You can reach out via [mapcamp.slack.com](https://mapcamp.slack.com/) on the #canada channel, we do not have an official meetup group yet.
 
 ## License
 
