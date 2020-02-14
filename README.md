@@ -137,6 +137,8 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - Europe
   - Belgium
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
+  - Czech Republic
+    - [Prague](https://www.meetup.com/Prague-Mapping-Meetup)
   - France
     - [Paris](https://www.meetup.com/Strategic-Map-Meetup-Paris/)
   - Germany
