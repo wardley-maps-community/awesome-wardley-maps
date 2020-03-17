@@ -137,9 +137,6 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ## Meetups
 
-- Canada
-  - Quebec
-    - Montreal. Reach out via [mapcamp.slack.com](https://mapcamp.slack.com/) in the #canada channel, we don't have an official meetup group yet.
 - Europe
   - Belgium
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
@@ -155,9 +152,15 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
     - [Amsterdam](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/)
   - Serbia
     - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
-- USA
-  - California
-    - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
+  - UK
+    - [London](https://www.meetup.com/Wardley-Maps-London/)
+- North America
+  - Canada
+    - Quebec
+      - Montreal. Reach out via [mapcamp.slack.com](https://mapcamp.slack.com/) in the #canada channel, we don't have an official meetup group yet.
+  - USA
+    - California
+      - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
 
 ## License
 
