@@ -61,6 +61,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) - Looking across teams and strata in an organisation and the practices used to meet organisational needs like alignment, reporting, etc. Feb 9, 2020.
 - [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/) - Wardley mapping shows blockchain is following the same maturity evolution as other mainstream technologies. 28 Jan, 2020.
 - [Structural Deepening](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html) - Using Wardley maps to look at the evolution of the jet engine. Jan 5, 2020.
+- [Map Your Improvement Strategy](https://hackernoon.com/improvements-experts-and-the-elusive-silver-bullet-knp321x) - Because that expert you hired has no magical bullets. Nov 4, 2019.
 - [Embedded in memory](https://medium.com/@swardley/embedded-in-memory-b05b0e7c183f) - Cultural cycles. Oct 2, 2019.
 - [Exploring value](https://medium.com/@swardley/exploring-value-e1ff89cfe019) - Values, resilience, principles, enablement systems. Oct 1, 2019.
 - [From values to rituals](https://medium.com/@swardley/from-values-to-rituals-b6f6ae7787bd) - Sep 9, 2019.
