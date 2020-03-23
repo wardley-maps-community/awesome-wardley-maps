@@ -159,6 +159,8 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
     - [Amsterdam](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/)
   - Serbia
     - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
+  - Spain
+    - [Barcelona](https://www.meetup.com/Organizational-Change-BCN-AUS/)
   - UK
     - [London](https://www.meetup.com/Wardley-Maps-London/)
 - North America
