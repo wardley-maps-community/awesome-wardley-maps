@@ -56,6 +56,7 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
 
+- [Research Skills Framework](https://www.researchskills.net/) - The RSF [Map](https://www.researchskills.net/framework/map) and Mapping Kit build upon Simon Wardley's maps. Retrieved Mar 30, 2020.
 - [Me versus We](https://medium.com/@swardley/me-versus-we-975f518b8219) - Off the beaten track — pivot. Mar 27, 2020.
 - [On the diversity of values](https://medium.com/@swardley/on-the-diversity-of-values-af1f91217be5) - On the inclusive and exclusive nature of values. Feb 24, 2020.
 - [From HS2 to China and … back again](https://medium.com/@swardley/from-hs2-to-china-and-back-again-6bce5764ea14) - On the changing world of geopolitics. Feb 23, 2020.
