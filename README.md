@@ -56,6 +56,7 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
 
+- [Your story never had a chance](https://medium.com/@azmolek/your-story-never-had-a-chance-d118e0ace8f8) - Gameplay, fractal patterns, feedback loops, doctrine. May 9 2020.
 - [Mapping the blog](https://www.onyszko.com/mapping-the-blog/) - Applying Wardley maps to personal blog user needs. Apr 20, 2020.
 - [Research Skills Framework](https://www.researchskills.net/) - The RSF [Map](https://www.researchskills.net/framework/map) and Mapping Kit build upon Simon Wardley's maps. Retrieved Mar 30, 2020.
 - [Me versus We](https://medium.com/@swardley/me-versus-we-975f518b8219) - Off the beaten track — pivot. Mar 27, 2020.
