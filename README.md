@@ -40,6 +40,7 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
 - [Bits or pieces?](https://blog.gardeviance.org/) - Simon Wardley's blog.
+- [Practical Introduction to Wardley Mapping - A step-by-step guide to creating and using Wardley Maps](https://leanpub.com/practicalintroductiontowardleymapping) - eBook by [E. Alex Hudson](https://github.com/alexhudson).
 
 ## Videos
 
