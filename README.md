@@ -23,6 +23,7 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 
 - [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - How situational awareness can put your business on the map (5:51).
 - [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - In 11 diagrams by [Simon Wardley](https://twitter.com/swardley).
+- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - A visually beautiful and engaging animation by [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
 
 ## Community
 
@@ -45,7 +46,7 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 ## Videos
 
 - [Wardley Maps](https://www.youtube.com/c/WardleyMaps) - Community YouTube channel and [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
-- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - A visually beautiful and engaging animation by [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
+- [Wardley Maps on Vimeo](https://vimeo.com/channels/wardleymaps) - Talks by Simon Wardley and the Wardley mapping community.
 - [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) - Watch presentations and video recordings on InfoQ.
   
 ## Courses
