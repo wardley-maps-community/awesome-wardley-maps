@@ -23,7 +23,7 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 
 - [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - How situational awareness can put your business on the map (5:51).
 - [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - In 11 diagrams by [Simon Wardley](https://twitter.com/swardley).
-- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - A visually beautiful and engaging animation by [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
+- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - An engaging animation by [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
 
 ## Community
 
@@ -41,7 +41,7 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
 - [Bits or pieces?](https://blog.gardeviance.org/) - Simon Wardley's blog.
-- [Practical Introduction to Wardley Mapping - A step-by-step guide to creating and using Wardley Maps](https://leanpub.com/practicalintroductiontowardleymapping) - eBook by [E. Alex Hudson](https://github.com/alexhudson).
+- [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - A step-by-step guide to creating and using Wardley Maps by [E. Alex Hudson](https://twitter.com/ealexhudson). PDF/iPad/Kindle.
 
 ## Videos
 
@@ -154,6 +154,8 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ## Meetups
 
+- Australia
+  - [Melbourne](https://www.meetup.com/Wardley-Mapping-Online-Meetup-AEST-AEDT-timezone/)
 - Europe
   - Belgium
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
