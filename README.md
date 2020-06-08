@@ -58,6 +58,7 @@ This is a list of useful Wardley mapping resources. Short URL: **[list.wardleyma
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
 
+- [Estratégia com Wardley Maps](https://targetteal.com/pt/blog/estrategia-wardley-maps/) - R. Bastos. Jun 7, 2020.
 - [Wenn Customizing zur Legacy wird](https://www.innoq.com/de/blog/customizing-zu-legacy/) - Analyse eines ERP-Systems mit Wardley Maps und strategischem Domain-driven Design. Jun 2, 2020.
 - [Your story never had a chance](https://medium.com/@azmolek/your-story-never-had-a-chance-d118e0ace8f8) - Gameplay, fractal patterns, feedback loops, doctrine. May 9, 2020.
 - [Mapping the blog](https://www.onyszko.com/mapping-the-blog/) - Applying Wardley maps to personal blog user needs. Apr 20, 2020.
