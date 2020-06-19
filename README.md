@@ -2,7 +2,7 @@
 
 > [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) is a technique that helps you examine your environment, identify upcoming changes and properly choose your actions. By examining what is needed, what components will be in use, what are their dependencies and characteristics, you can build a visual representation of your world, play what-if games, and pick your direction and best actions to support it.
 
-This is a list of useful Wardley mapping resources. Short URL: **[list.wardleymaps.com](http://list.wardleymaps.com)**. Contributions welcome! [Contribution guidelines](https://github.com/wardley-maps-community/awesome-wardley-maps/blob/master/contributing.md) for adding something to the list. 
+This is a list of useful Wardley mapping resources. Short URL: [list.wardleymaps.com](https://wardley-maps-community.github.io/awesome-wardley-maps/). Contributions welcome! [Contribution guidelines](https://github.com/wardley-maps-community/awesome-wardley-maps/blob/master/contributing.md) for adding something to the list. 
 
 ## Contents
 
