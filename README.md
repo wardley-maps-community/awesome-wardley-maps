@@ -109,7 +109,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight) - Part 1 Mark Thompson outlines a digital vision to make government a more cohesive, integrated organisation. Oct 9, 2015.
 - [Simon Wardley's 100-day Corporate get fit plan](https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html) - For the newly-appointed executive, to help get you into a position from which you can start to learn and talk about strategy. Aug 21, 2015.
 - [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html) - Simon Wardley discusses some of the other tools he uses with mapping. Mar 6, 2015.
-- [Guest post: mapping the way to a strategy](https://governmenttechnology.blog.gov.uk/2014/04/16/guest-post-mapping-the-way-to-a-strategy/) - GOV.UK Government Digital Service. 16 Apr 2014.
+- [Guest post: mapping the way to a strategy](https://governmenttechnology.blog.gov.uk/2014/04/16/guest-post-mapping-the-way-to-a-strategy/) - GOV.UK Government Digital Service. 16 Apr, 2014.
 - [Context, Situation, Components, PaaS, Dead or Alive … it's all semantics isn't it?](https://blog.gardeviance.org/2014/02/context-situation-components-paas-dead.html) - tl;dr Caveat Emptor. Feb 4, 2014.
 
 ## Research Papers
