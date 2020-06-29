@@ -36,8 +36,8 @@ This is a list of useful Wardley mapping resources. Short URL: [list.wardleymaps
 ## Reading
 
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-  - PDF and Kindle e-book [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
-  - MP3 Audiobook [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
+  - E-book - PDF and Kindle [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+  - Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
 - [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
