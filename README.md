@@ -144,6 +144,10 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@owardleymaps](https://twitter.com/owardleymaps) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/).
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 
+### CLI (Command Line Interface)
+
+- [Go-Wardley](https://github.com/DavidGamba/go-wardley) - Wardley Maps Generator written in Golang. Converts HCL-based description and generates an SVG map
+
 ### Doctrine Assessement
 
 - [Doctrine](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
