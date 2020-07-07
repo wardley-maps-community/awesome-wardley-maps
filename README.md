@@ -43,6 +43,7 @@ This is a list of useful Wardley mapping resources. Short URL: [list.wardleymaps
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
 - [Bits or pieces?](https://blog.gardeviance.org/) - Simon Wardley's blog.
 - [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - A step-by-step guide to creating and using Wardley Maps by [E. Alex Hudson](https://twitter.com/ealexhudson). PDF/iPad/Kindle.
+- [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy) [Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
 
 ## Videos
 
