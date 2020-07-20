@@ -4,8 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Wardley Maps | Awesome List</title>
-    <meta name="description" content="Useful Wardley mapping resources" />
+{% if page.url == "/code-of-conduct.html" %}
+    <title>Code of Conduct | Wardley Maps</title>
+    <meta name="description" content="Contributor covenant code of conduct. Our pledge, standards and responsibilities" />
+{% elsif page.url == "/contributing.html" %}
+    <title>Contribution Guidelines | Wardley Maps</title>
+    <meta name="description" content="How to contribute to the Wardley maps awesome list" />
+{% else %}
+    <title>Wardley Maps Awesome List</title>
+    <meta name="description" content="Useful Wardley mapping resources" />    
+{% endif %}
     <link rel="icon" type="image/png" href="https://wardley-maps-community.github.io/awesome-wardley-maps/media/favicon.png">
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@themapirati" />
@@ -32,9 +40,13 @@
 <body>
     <div class="container-lg px-3 my-5 markdown-body">
         <div class="d-flex flex-justify-end">
-            <a href="https://github.com/wardley-maps-community/awesome-wardley-maps">Edit this page on GitHub</a>
+{% if page.url == "/" %}
+        <a href="https://github.com/wardley-maps-community/awesome-wardley-maps">Edit this page on GitHub</a>
+{% else %}
+        <a href="https://wardley-maps-community.github.io/awesome-wardley-maps/">Wardley Maps Awesome List</a>
+{% endif %}            
         </div>
-
+        
         {{ content }}
 
     </div>
