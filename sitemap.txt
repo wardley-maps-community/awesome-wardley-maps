@@ -1,0 +1,3 @@
+https://wardley-maps-community.github.io/awesome-wardley-maps/
+https://wardley-maps-community.github.io/awesome-wardley-maps/code-of-conduct
+https://wardley-maps-community.github.io/awesome-wardley-maps/contributing
