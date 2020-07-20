@@ -2,7 +2,7 @@
 
 > [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) is a technique that helps you examine your environment, identify upcoming changes and properly choose your actions. By examining what is needed, what components will be in use, what are their dependencies and characteristics, you can build a visual representation of your world, play what-if games, and pick your direction and best actions to support it.
 
-This is a list of useful Wardley mapping resources. Short URL: [list.wardleymaps.com](https://wardley-maps-community.github.io/awesome-wardley-maps/). Contributions welcome! [Contribution guidelines](https://github.com/wardley-maps-community/awesome-wardley-maps/blob/master/contributing.md) for adding something to the list. 
+This is a list of useful Wardley mapping resources and examples. Short URL: [list.wardleymaps.com](http://list.wardleymaps.com). Contributions welcome! [Contribution guidelines](https://wardley-maps-community.github.io/awesome-wardley-maps/contributing) for adding something to the list. 
 
 ## Contents
 
@@ -60,6 +60,7 @@ This is a list of useful Wardley mapping resources. Short URL: [list.wardleymaps
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
 
+- [Thoughts on 'value' in the Value Chain](https://www.abusedbits.com/2020/07/thoughts-on-value-in-value-chain.html) - It is important to understand the need and outcome. It is vital to understand the value desired. Jul 17, 2020.
 - [Would you survive the loss of your phone?](https://www.kda.zone/post/would-you-survive-the-loss-of-your-phone) - How to use Wardley mapping to increase resilience using personal security as an example. Jun 18, 2020.
 - [Estratégia com Wardley Maps](https://targetteal.com/pt/blog/estrategia-wardley-maps/) - R. Bastos. Jun 7, 2020.
 - [Wenn Customizing zur Legacy wird](https://www.innoq.com/de/blog/customizing-zu-legacy/) - Analyse eines ERP-Systems mit Wardley Maps und strategischem Domain-driven Design. Jun 2, 2020.
