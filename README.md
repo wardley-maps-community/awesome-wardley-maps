@@ -61,6 +61,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
 
+- [How to Introduce Wardley Mapping to Different Strata of the Organization](https://learnwardleymapping.com/2020/07/22/how-to-introduce-wardley-mapping-to-different-strata-of-the-organization/) - What is the best way to introduce Wardley Mapping to different groups? Jul 22, 2020.
 - [Thoughts on 'value' in the Value Chain](https://www.abusedbits.com/2020/07/thoughts-on-value-in-value-chain.html) - It is important to understand the need and outcome. It is vital to understand the value desired. Jul 17, 2020.
 - [Would you survive the loss of your phone?](https://www.kda.zone/post/would-you-survive-the-loss-of-your-phone) - How to use Wardley mapping to increase resilience using personal security as an example. Jun 18, 2020.
 - [Estratégia com Wardley Maps](https://targetteal.com/pt/blog/estrategia-wardley-maps/) - R. Bastos. Jun 7, 2020.
