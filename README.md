@@ -161,6 +161,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ## Events
 
+- [Map Camp 2020](https://leadingedgeforum.com/events/map-camp-online/) - A free all-day online event on October 13, 2020.
 - [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
 
 ## Workshops
