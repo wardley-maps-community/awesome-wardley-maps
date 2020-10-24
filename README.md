@@ -1,4 +1,4 @@
-# Wardley Maps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Wardley Maps Community Hub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) is a technique that helps you examine your environment, identify upcoming changes and properly choose your actions. By examining what is needed, what components will be in use, what are their dependencies and characteristics, you can build a visual representation of your world, play what-if games, and pick your direction and best actions to support it.
 
@@ -64,6 +64,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
 
+- [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a) - Look before you leap. Oct 22, 2020.
 - [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - Sep 15, 2020.
 - [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/) - A conversation with Simon Wardley. Aug 4, 2020.
 - [Doctrine or Dogma?](https://medium.com/swlh/doctrine-or-dogma-2abeaef0cbc7) - Challenge your Wardley mapping assumptions in a friendly way. Aug 2, 2020.
@@ -75,20 +76,20 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Your story never had a chance](https://medium.com/@azmolek/your-story-never-had-a-chance-d118e0ace8f8) - Gameplay, fractal patterns, feedback loops, doctrine. May 9, 2020.
 - [Mapping the blog](https://www.onyszko.com/mapping-the-blog/) - Applying Wardley maps to personal blog user needs. Apr 20, 2020.
 - [Research Skills Framework](https://www.researchskills.net/) - The RSF [Map](https://www.researchskills.net/framework/map) and Mapping Kit build upon Simon Wardley's maps. Retrieved Mar 30, 2020.
-- [Me versus We](https://medium.com/@swardley/me-versus-we-975f518b8219) - Off the beaten track — pivot. Mar 27, 2020.
-- [On the diversity of values](https://medium.com/@swardley/on-the-diversity-of-values-af1f91217be5) - On the inclusive and exclusive nature of values. Feb 24, 2020.
-- [From HS2 to China and … back again](https://medium.com/@swardley/from-hs2-to-china-and-back-again-6bce5764ea14) - On the changing world of geopolitics. Feb 23, 2020.
+- [Me versus We](https://swardley.medium.com/me-versus-we-975f518b8219) - Off the beaten track — pivot. Mar 27, 2020.
+- [On the diversity of values](https://swardley.medium.com/on-the-diversity-of-values-af1f91217be5) - On the inclusive and exclusive nature of values. Feb 24, 2020.
+- [From HS2 to China and … back again](https://swardley.medium.com/from-hs2-to-china-and-back-again-6bce5764ea14) - On the changing world of geopolitics. Feb 23, 2020.
 - [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) - Looking across teams and strata in an organisation and the practices used to meet organisational needs like alignment, reporting, etc. Feb 9, 2020.
 - [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/) - Wardley mapping shows blockchain is following the same maturity evolution as other mainstream technologies. 28 Jan, 2020.
 - [Structural Deepening](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html) - Using Wardley maps to look at the evolution of the jet engine. Jan 5, 2020.
 - [Map Your Improvement Strategy](https://hackernoon.com/improvements-experts-and-the-elusive-silver-bullet-knp321x) - Because that expert you hired has no magical bullets. Nov 4, 2019.
-- [Embedded in memory](https://medium.com/@swardley/embedded-in-memory-b05b0e7c183f) - Cultural cycles. Oct 2, 2019.
-- [Exploring value](https://medium.com/@swardley/exploring-value-e1ff89cfe019) - Values, resilience, principles, enablement systems. Oct 1, 2019.
-- [From values to rituals](https://medium.com/@swardley/from-values-to-rituals-b6f6ae7787bd) - Sep 9, 2019.
-- [Exploring Brexit](https://medium.com/@swardley/exploring-brexit-2ea2f3f283c8) - The first rule of Brexit is “you’re wrong”. Sep 5, 2019.
-- [Exploring Culture](https://medium.com/@swardley/mapping-culture-ac164c0e17f0) - Mapping Culture. Sep 4, 2019.
+- [Embedded in memory](https://swardley.medium.com/embedded-in-memory-b05b0e7c183f) - Cultural cycles. Oct 2, 2019.
+- [Exploring value](https://swardley.medium.com/exploring-value-e1ff89cfe019) - Values, resilience, principles, enablement systems. Oct 1, 2019.
+- [From values to rituals](https://swardley.medium.com/from-values-to-rituals-b6f6ae7787bd) - Sep 9, 2019.
+- [Exploring Brexit](https://swardley.medium.com/exploring-brexit-2ea2f3f283c8) - The first rule of Brexit is “you’re wrong”. Sep 5, 2019.
+- [Exploring Culture](https://swardley.medium.com/mapping-culture-ac164c0e17f0) - Mapping Culture. Sep 4, 2019.
 - [Building a working map of Ethereum 1.0](https://chainstrat.substack.com/p/building-a-working-map-of-ethereum) - 10,000 feet view of Ethereum's user needs and capabilities. Aug 13, 2019.
-- [What culture is right for you?](https://medium.com/@swardley/what-culture-is-right-for-you-ba892f1f3bc5) - Jul 31, 2019.
+- [What culture is right for you?](https://swardley.medium.com/what-culture-is-right-for-you-ba892f1f3bc5) - Jul 31, 2019.
 - [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/) - Mapping "Who Says Elephants Can't Dance" by Louis Gerstner. Jun 18, 2019.
 - [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/) - Mapping the challenges of launching novel payment solutions. Jun 14, 2019.
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/) - Understanding the crypto ecosystem through Wardley maps. Jun 2, 2019.
@@ -97,22 +98,22 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook) - Two use cases: giving NSOs access to new sources of (sensitive) Big Data; and enabling Big Data Collaborations Across Multiple NSO. Download [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc). Mar 12, 2019.
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) - Combines Samo Burja's Empire Theory with a form of mapping similar to that pioneered by Simon Wardley. Jan 2, 2019.
 - [Research heresies](https://www.myddelton.co.uk/blog/research-heresies) - Three ways to think about user needs and user research and how Wardley maps can help us think about where to do user research. Nov 2, 2018.
-- [What is an expert?](https://medium.com/@swardley/what-is-an-expert-886274b2c1aa) - Oct 31, 2018.
+- [What is an expert?](https://swardley.medium.com/what-is-an-expert-886274b2c1aa) - Oct 31, 2018.
 - [Rebooting GDS](https://medium.com/hackernoon/rebooting-gds-96b1595096fa) - How to stop the organisation from actively harming itself by focusing on doctrine and spend control. Oct 30, 2018.
 - [A Platform Design Example Explained](https://stories.platformdesigntoolkit.com/pdt-bootcamp-example-explained-34e08f9dd4b3) - Exploring and designing a platform in the renewable energy context. Oct 28, 2019.
 - [Understanding Platforms through Value Chain Maps](https://stories.platformdesigntoolkit.com/platform-value-chain-z-shape-385f759faffa) - Why is a Platforms' Wardley (Value Chain) Map Z-Shaped? Oct 11, 2018.
 - [Healthcare information technology strategy](https://wardle.org/strategy/2018/07/19/mapping.html) - How can we make best use of technology to support healthcare? Jul 19, 2018.
 - [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315) - Context specific maturity models with Wardley maps informed by Cynefin. May 11, 2018.
 - [A mechanism for building a roadmap](https://hackernoon.com/a-mechanism-for-building-a-roadmap-2708d762097f) - Using a Wardley map to build a roadmap. Jan 9, 2018.
-- [Uber, the not so disrupting disruptor?](https://medium.com/@swardley/uber-the-not-so-disrupting-disruptor-f03ecbb1330a) - Sep 11, 2017.
-- [Blue pill or red pill?](https://medium.com/@swardley/blue-pill-or-red-pill-9249bed5918b) - Doctrine and doctrine phases. May 25, 2017.
-- [Is my diagram a map?](https://medium.com/@swardley/is-my-diagram-a-map-7b30c10fb693) - May 12, 2017.
+- [Uber, the not so disrupting disruptor?](https://swardley.medium.com/uber-the-not-so-disrupting-disruptor-f03ecbb1330a) - Sep 11, 2017.
+- [Blue pill or red pill?](https://swardley.medium.com/blue-pill-or-red-pill-9249bed5918b) - Doctrine and doctrine phases. May 25, 2017.
+- [Is my diagram a map?](https://swardley.medium.com/is-my-diagram-a-map-7b30c10fb693) - May 12, 2017.
 - [Designing for constant evolution](https://medium.com/hackernoon/designing-for-constant-evolution-41b216741974) - Pioneer, Settler and Town Planner (Wardley PST). Jan 31, 2017.
-- [Near field, far field and the crazy ideas](https://medium.com/@swardley/near-field-far-field-and-the-crazy-ideas-356d84752ed9) - My future career as a Harmony Designer. Jan 17, 2017.
+- [Near field, far field and the crazy ideas](https://swardley.medium.com/near-field-far-field-and-the-crazy-ideas-356d84752ed9) - My future career as a Harmony Designer. Jan 17, 2017.
 - [Thank you Amazon. Boom! Everything in business will change](https://medium.com/hackernoon/building-a-business-from-a-great-idea-some-future-monday-42ba794fdae5) - Dec 3, 2016.
-- [Something that will change the world of competition](https://medium.com/@swardley/something-that-will-change-the-world-of-competition-94af044a5a37) - Dec 1, 2016.
+- [Something that will change the world of competition](https://swardley.medium.com/something-that-will-change-the-world-of-competition-94af044a5a37) - Dec 1, 2016.
 - [Amazon is eating the software (which is eating the world)](https://medium.com/hackernoon/amazon-is-eating-the-software-which-is-eating-the-world-738888fb9e82) - Nov 30, 2016.
-- [The map is not the territory](https://medium.com/@swardley/the-map-is-not-the-territory-257a3c258a83) - Nov 24, 2016.
+- [The map is not the territory](https://swardley.medium.com/the-map-is-not-the-territory-257a3c258a83) - Nov 24, 2016.
 - [Why the fuss about serverless?](https://medium.com/hackernoon/why-the-fuss-about-serverless-4370b1596da0) - Evolution and co-evolution of architectural practice and worth based development. Nov 23, 2016.
 - [On user needs and listening to customers](https://blog.gardeviance.org/2016/04/on-user-needs-and-listening-to-customers.html) - Simon Wardley focuses on one of the most important parts of mapping - the anchor. April 11, 2016.
 - [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) - Oct 17, 2015.
