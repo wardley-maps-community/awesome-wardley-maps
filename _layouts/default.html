@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+{% if page.url == "/code-of-conduct.html" %}
+    <title>Code of Conduct | Wardley Maps</title>
+    <meta name="description" content="Contributor covenant code of conduct. Our pledge, standards and responsibilities" />
+{% elsif page.url == "/contributing.html" %}
+    <title>Contribution Guidelines | Wardley Maps</title>
+    <meta name="description" content="How to contribute to the Wardley maps awesome list" />
+{% else %}
+    <title>Wardley Maps Awesome List</title>
+    <meta name="description" content="Useful Wardley mapping resources" />    
+{% endif %}
+    <link rel="icon" type="image/png" href="https://wardley-maps-community.github.io/awesome-wardley-maps/media/favicon.png">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@themapirati" />
+    <meta name="twitter:title" content="Wardley Maps Awesome List" />
+    <meta name="twitter:description" content="Useful Wardley mapping resources." />
+    <meta name="twitter:image" content="https://wardley-maps-community.github.io/awesome-wardley-maps/media/wardley-maps-awesome-list-logo.png" />
+    <meta property="og:title" content="Wardley Maps" />
+    <meta property="og:site_name" content="wardley-maps-awesome-list" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:description" content="Useful Wardley mapping resources" />
+    <link rel="canonical" href="https://wardley-maps-community.github.io/awesome-wardley-maps/" />
+    <link rel="alternate" hreflang="en" href="https://github.com/wardley-maps-community/awesome-wardley-maps" />
+    <script type="application/ld+json">
+    {"@type":"WebSite","headline":"Wardley Maps","url":"https://wardley-maps-community.github.io/awesome-wardley-maps/","name":"Wardley Maps - Awesome List","description":"Useful Wardley mapping resources","@context":"https://schema.org"}
+    </script>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-170136280-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-170136280-1');
+    </script>
+<body>
+    <div class="container-lg px-3 my-5 markdown-body">
+        <div class="d-flex flex-justify-end">
+{% if page.url == "/" %}
+        <a href="https://github.com/wardley-maps-community/awesome-wardley-maps">Edit this page on GitHub</a>
+{% else %}
+        <a href="https://wardley-maps-community.github.io/awesome-wardley-maps/">Wardley Maps Awesome List</a>
+{% endif %}            
+        </div>
+        
+        {{ content }}
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"
+        integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+</body>
+</html>
