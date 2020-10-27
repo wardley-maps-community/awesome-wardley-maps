@@ -6,18 +6,26 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 
 ## Contents
 
-- [Quick Start](#quick-start)
-- [Community](#community)
-- [Reading](#reading)
-- [Videos](#videos)
-- [Courses](#courses)
-- [Maps in the Wild](#maps-in-the-wild)
-- [Research Papers](#research-papers)
-- [Templates](#templates)
-- [Apps](#apps)
-- [Events](#events)
-- [Workshops](#workshops)
-- [Meetups](#meetups)
+- [Wardley Maps Community Hub ![Awesome](https://awesome.re)](#wardley-maps-community-hub-awesomehttpsawesomerebadgesvghttpsawesomere)
+  - [Contents](#contents)
+  - [Quick Start](#quick-start)
+  - [Community](#community)
+  - [Reading](#reading)
+  - [Videos](#videos)
+  - [Courses](#courses)
+  - [Maps in the Wild](#maps-in-the-wild)
+  - [Research Papers](#research-papers)
+  - [Templates](#templates)
+    - [Mapping](#mapping)
+    - [Doctrine Assessement](#doctrine-assessement)
+  - [Apps](#apps)
+    - [Mapping](#mapping-1)
+    - [Doctrine Assessement](#doctrine-assessement-1)
+    - [Commercial Enterprise Platforms](#commercial-enterprise-platforms)
+  - [Events](#events)
+  - [Workshops](#workshops)
+  - [Meetups](#meetups)
+  - [License](#license)
 
 ## Quick Start
 
@@ -153,6 +161,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/).
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@owardleymaps](https://twitter.com/owardleymaps) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/).
+- [VSCode-Wardley-Maps](https://github.com/damonsk/vscode-wardley-maps) - Open source Visual Studio Code extension. An offline implementation of OnlineWardleyMaps. Visual Studio Code Marketplace Install available [here](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps).
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 - [Go-Wardley](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 
