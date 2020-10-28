@@ -153,6 +153,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/).
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@owardleymaps](https://twitter.com/owardleymaps) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/).
+- [Wardley Maps for Visual Studio Code](https://github.com/damonsk/onlinewardleymaps) - Render and edit Wardley maps within Visual Studio Code. This VSCode extention leverages the engine from OnlineWardleyMaps.com.
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 - [Go-Wardley](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 
