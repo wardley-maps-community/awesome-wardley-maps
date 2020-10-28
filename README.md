@@ -191,6 +191,8 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
     - [Munich](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/)    
   - Netherlands
     - [Amsterdam](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/)
+  - Norway
+    - [Oslo](https://www.meetup.com/oslo-wardley-mapping)    
   - Serbia
     - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
   - Spain
