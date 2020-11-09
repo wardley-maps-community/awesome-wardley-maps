@@ -13,8 +13,8 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [Courses](#courses)
 - [Maps in the Wild](#maps-in-the-wild)
 - [Research Papers](#research-papers)
-- [Templates](#templates)
 - [Apps](#apps)
+- [Templates](#templates)
 - [Events](#events)
 - [Workshops](#workshops)
 - [Meetups](#meetups)
@@ -129,24 +129,6 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Building Situational Awareness in the Age of Service Ecosystems](https://aisel.aisnet.org/ecis2019_rp/178/) - Pujadas, R; Thompson, M; Venters, W; et al. March 2019.
 - [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping&type=Position+Paper) - A series of position papers published by the Leading Edge Forum. Jun 13, 2018 - Jan 28, 2019.
 
-## Templates
-
-- [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and an overview of all sorts of mapping tools and techniques.
-
-### Mapping
-
-- [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
-- [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Templates for Microsoft Visio and PowerPoint.
-- [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to guide on mapping using this template.
-- [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
-- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley maps in LaTeX.
-- [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
-
-### Doctrine Assessement
-
-- [Doctrine Grid Tool](https://justin.stach.uk/doctrine_grid_tool) - Based on Google Forms and Google Sheets.
-
 ## Apps
 
 ### Mapping
@@ -165,9 +147,27 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 - [Wemvula](https://rainmaker.solutions/wemvula/) - A visual transformation platform that provides the situational awareness to make sense of your interconnected web of needs, ideas, service components, supply contracts and change activities.
 
+## Templates
+
+- [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and an overview of all sorts of mapping tools and techniques.
+
+### Mapping
+
+- [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
+- [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Templates for Microsoft Visio and PowerPoint.
+- [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to guide on mapping using this template.
+- [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
+- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley maps in LaTeX.
+- [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
+
+### Doctrine Assessement
+
+- [Doctrine Grid Tool](https://justin.stach.uk/doctrine_grid_tool) - Based on Google Forms and Google Sheets.
+
 ## Events
 
-- [Map Camp 2020](https://leadingedgeforum.com/events/map-camp-online/) - A free all-day online event on October 13, 2020.
+- [Map Camp 2020](https://leadingedgeforum.com/research/map-camp-2020/) - A free all-day online event on October 13, 2020.
 - [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
 
 ## Workshops
