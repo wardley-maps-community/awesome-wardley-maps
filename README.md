@@ -197,7 +197,8 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
   - Serbia
     - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
   - Spain
-    - [Barcelona](https://www.meetup.com/Organizational-Change-BCN-AUS/)
+    - [Barcelona](https://www.meetup.com/Organizational-Change-BCN-AUS/) - Organizational Change - Wardley Maps
+    - [Barcelona](https://www.meetup.com/en-AU/wardley-maps-strategy-meetup-group-by-aktia-solutions/) - Wardley Maps Strategy
   - Switzerland
     - [Basel](https://www.meetup.com/de-DE/Wardley-Mapping-Group-Switzerland/)
   - UK
