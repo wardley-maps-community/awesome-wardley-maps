@@ -65,6 +65,8 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
 
 - [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a) - Look before you leap. Oct 22, 2020.
+- [Making a Map of Risks](https://jlottosen.wordpress.com/2020/10/06/making-a-map-of-risks/) - using the x-axis for risk positioning. Oct 6, 2020
+- [Mapping Test Strategies](https://community.wardleymaps.com/t/mapping-test-strategies/698) - Mapping test strategies. Sep 19, 2020
 - [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - Sep 15, 2020.
 - [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/) - A conversation with Simon Wardley. Aug 4, 2020.
 - [Doctrine or Dogma?](https://medium.com/swlh/doctrine-or-dogma-2abeaef0cbc7) - Challenge your Wardley mapping assumptions in a friendly way. Aug 2, 2020.
@@ -75,6 +77,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Wenn Customizing zur Legacy wird](https://www.innoq.com/de/blog/customizing-zu-legacy/) - Analyse eines ERP-Systems mit Wardley Maps und strategischem Domain-driven Design. Jun 2, 2020.
 - [Your story never had a chance](https://medium.com/@azmolek/your-story-never-had-a-chance-d118e0ace8f8) - Gameplay, fractal patterns, feedback loops, doctrine. May 9, 2020.
 - [Mapping the blog](https://www.onyszko.com/mapping-the-blog/) - Applying Wardley maps to personal blog user needs. Apr 20, 2020.
+- [No Code, No Test?](https://jlottosen.wordpress.com/2020/04/13/no-code-no-test/) - Low code evolves and outmaneuvers “high code”. apr 13, 2020
 - [Research Skills Framework](https://www.researchskills.net/) - The RSF [Map](https://www.researchskills.net/framework/map) and Mapping Kit build upon Simon Wardley's maps. Retrieved Mar 30, 2020.
 - [Me versus We](https://swardley.medium.com/me-versus-we-975f518b8219) - Off the beaten track — pivot. Mar 27, 2020.
 - [On the diversity of values](https://swardley.medium.com/on-the-diversity-of-values-af1f91217be5) - On the inclusive and exclusive nature of values. Feb 24, 2020.
