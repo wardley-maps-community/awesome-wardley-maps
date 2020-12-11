@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](https://wardley-maps-community.github.io/awesome-wardley-maps/code-of-conduct). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://list.wardleymaps.com/code-of-conduct). By participating in this project you agree to abide by its terms.
 
 Read the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) for more information about what is considered awesome.
 
