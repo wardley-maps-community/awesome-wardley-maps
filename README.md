@@ -175,6 +175,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 ## Workshops
 
 - [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
+- [Workshop Building Block - New Year's Eve Party](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) - Help workshop participants gain confidence in mapping in a business-neutral environment.
 
 ## Meetups
 
