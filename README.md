@@ -63,7 +63,6 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 ## Maps in the Wild
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
-- [A curated atlas of valuable Wardley Maps](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad) - 2016-2021.
 - [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a) - Look before you leap. Oct 22, 2020.
 - [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - Sep 15, 2020.
 - [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/) - A conversation with Simon Wardley. Aug 4, 2020.
@@ -81,6 +80,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [From HS2 to China and … back again](https://swardley.medium.com/from-hs2-to-china-and-back-again-6bce5764ea14) - On the changing world of geopolitics. Feb 23, 2020.
 - [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) - Looking across teams and strata in an organisation and the practices used to meet organisational needs like alignment, reporting, etc. Feb 9, 2020.
 - [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/) - Wardley mapping shows blockchain is following the same maturity evolution as other mainstream technologies. 28 Jan, 2020.
+- [Some initial thoughts about ERP systems](https://www.feststelltaste.de/some-initial-thoughts-about-erp-systems/) - Jan 23, 2020.
 - [Structural Deepening](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html) - Using Wardley maps to look at the evolution of the jet engine. Jan 5, 2020.
 - [Map Your Improvement Strategy](https://hackernoon.com/improvements-experts-and-the-elusive-silver-bullet-knp321x) - Because that expert you hired has no magical bullets. Nov 4, 2019.
 - [Embedded in memory](https://swardley.medium.com/embedded-in-memory-b05b0e7c183f) - Cultural cycles. Oct 2, 2019.
@@ -97,6 +97,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/) - The Green Web Foundation. Mar 20, 2019.
 - [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy) - Covers the development of your IT strategy using Wardley Maps to predict the future, understand which methodologies are best suited to developing and delivery information management systems. Download the [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) used to create the Handbook on IT Strategy. Mar 13, 2019.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook) - Two use cases: giving NSOs access to new sources of (sensitive) Big Data; and enabling Big Data Collaborations Across Multiple NSO. Download [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc). Mar 12, 2019.
+- [The Art of Strategy](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad) - A curated atlas of Wardley mapping examples. Mar 6, 2019 - Present.
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) - Combines Samo Burja's Empire Theory with a form of mapping similar to that pioneered by Simon Wardley. Jan 2, 2019.
 - [Research heresies](https://www.myddelton.co.uk/blog/research-heresies) - Three ways to think about user needs and user research and how Wardley maps can help us think about where to do user research. Nov 2, 2018.
 - [What is an expert?](https://swardley.medium.com/what-is-an-expert-886274b2c1aa) - Oct 31, 2018.
@@ -206,9 +207,6 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
   - UK
     - [London](https://www.meetup.com/Wardley-Maps-London/)
 - North America
-  - Canada
-    - Quebec
-      - Montreal. Reach out via [mapcamp.slack.com](https://mapcamp.slack.com/) in the #canada channel, we don't have an official meetup group yet.
   - USA
     - California
       - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
