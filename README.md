@@ -113,6 +113,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Is my diagram a map?](https://swardley.medium.com/is-my-diagram-a-map-7b30c10fb693) - May 12, 2017.
 - [Designing for constant evolution](https://medium.com/hackernoon/designing-for-constant-evolution-41b216741974) - Pioneer, Settler and Town Planner (Wardley PST). Jan 31, 2017.
 - [Near field, far field and the crazy ideas](https://swardley.medium.com/near-field-far-field-and-the-crazy-ideas-356d84752ed9) - My future career as a Harmony Designer. Jan 17, 2017.
+- [The data flow value chain](https://medium.com/digital-anatomy/the-data-flow-value-chain-45b0dd3083e8) - Exploring a value chain using a basic architecture of data flow with James Urquhart. Dec 22, 2016.
 - [Thank you Amazon. Boom! Everything in business will change](https://medium.com/hackernoon/building-a-business-from-a-great-idea-some-future-monday-42ba794fdae5) - Dec 3, 2016.
 - [Something that will change the world of competition](https://swardley.medium.com/something-that-will-change-the-world-of-competition-94af044a5a37) - Dec 1, 2016.
 - [Amazon is eating the software (which is eating the world)](https://medium.com/hackernoon/amazon-is-eating-the-software-which-is-eating-the-world-738888fb9e82) - Nov 30, 2016.
