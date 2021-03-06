@@ -108,9 +108,10 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Healthcare information technology strategy](https://wardle.org/strategy/2018/07/19/mapping.html) - How can we make best use of technology to support healthcare? Jul 19, 2018.
 - [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315) - Context specific maturity models with Wardley maps informed by Cynefin. May 11, 2018.
 - [A mechanism for building a roadmap](https://hackernoon.com/a-mechanism-for-building-a-roadmap-2708d762097f) - Using a Wardley map to build a roadmap. Jan 9, 2018.
-- [Uber, the not so disrupting disruptor?](https://swardley.medium.com/uber-the-not-so-disrupting-disruptor-f03ecbb1330a) - Sep 11, 2017.
-- [Blue pill or red pill?](https://swardley.medium.com/blue-pill-or-red-pill-9249bed5918b) - Doctrine and doctrine phases. May 25, 2017.
-- [Is my diagram a map?](https://swardley.medium.com/is-my-diagram-a-map-7b30c10fb693) - May 12, 2017.
+- [Uber, the not so disrupting disruptor?](https://swardley.medium.com/uber-the-not-so-disrupting-disruptor-f03ecbb1330a) - By Simon Wardley. Sep 11, 2017.
+- [Blue pill or red pill?](https://swardley.medium.com/blue-pill-or-red-pill-9249bed5918b) - Doctrine and doctrine phases by Simon Wardley. May 25, 2017.
+- [Is my diagram a map?](https://swardley.medium.com/is-my-diagram-a-map-7b30c10fb693) - By Simon Wardley. May 12, 2017.
+- [Applying doctrine to data flow](https://medium.com/digital-anatomy/applying-doctrine-to-data-flow-5733822d9270) - By James Urquhart. Feb 4, 2017. 
 - [Designing for constant evolution](https://medium.com/hackernoon/designing-for-constant-evolution-41b216741974) - Pioneer, Settler and Town Planner (Wardley PST). Jan 31, 2017.
 - [Near field, far field and the crazy ideas](https://swardley.medium.com/near-field-far-field-and-the-crazy-ideas-356d84752ed9) - My future career as a Harmony Designer. Jan 17, 2017.
 - [Adding Context To The Wardley Map of Data Flow](https://medium.com/digital-anatomy/adding-context-to-the-wardley-map-of-data-flow-c818dc2960d6) - How do you extract value from the jumble of components and value relationships by James Urquhart. Jan 12, 2017.
