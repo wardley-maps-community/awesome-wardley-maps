@@ -24,6 +24,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - How situational awareness can put your business on the map (5:51).
 - [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - In 11 diagrams by [Simon Wardley](https://twitter.com/swardley).
 - [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - An engaging animation by [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
+- [From Cloud to DevOps to Serverless in under 10 minutes using maps](https://www.youtube.com/watch?v=7DSfguWPPWA ) - A basic introduction to change in the IT industry using the concept of Wardley maps by Simon Wardley (9:56).
 
 ## Community
 
