@@ -11,6 +11,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [Reading](#reading)
 - [Videos](#videos)
 - [Courses](#courses)
+- [Certifications](#certifications)
 - [Maps in the Wild](#maps-in-the-wild)
 - [Research Papers](#research-papers)
 - [Apps](#apps)
