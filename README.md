@@ -113,6 +113,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [A Platform Design Example Explained](https://stories.platformdesigntoolkit.com/pdt-bootcamp-example-explained-34e08f9dd4b3) - Exploring and designing a platform in the renewable energy context. Oct 28, 2019.
 - [Understanding Platforms through Value Chain Maps](https://stories.platformdesigntoolkit.com/platform-value-chain-z-shape-385f759faffa) - Why is a Platforms' Wardley (Value Chain) Map Z-Shaped? Oct 11, 2018.
 - [Healthcare information technology strategy](https://wardle.org/strategy/2018/07/19/mapping.html) - How can we make best use of technology to support healthcare? Jul 19, 2018.
+- [Value Chains](https://design4services.com/concepts/value-chains/) - Porter Value Chain Analysis, Wardley Value Chain Analysis and Value Mapping by Tim Manning. Jul 17, 2018.
 - [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315) - Context specific maturity models with Wardley maps informed by Cynefin. May 11, 2018.
 - [A mechanism for building a roadmap](https://hackernoon.com/a-mechanism-for-building-a-roadmap-2708d762097f) - Using a Wardley map to build a roadmap. Jan 9, 2018.
 - [Uber, the not so disrupting disruptor?](https://swardley.medium.com/uber-the-not-so-disrupting-disruptor-f03ecbb1330a) - By Simon Wardley. Sep 11, 2017.
