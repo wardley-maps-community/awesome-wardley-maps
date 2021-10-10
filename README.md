@@ -157,6 +157,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 - [Go-Wardley](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 - [Mapkeep](https://mapkeep.com/) - Mapkeep is a place to keep 😉 your Wardley Maps. Create, share, and discuss maps with others. Host your maps for free with unlimited public repositories. For updates, you can follow [@mapkeep](https://twitter.com/mapkeep) on Twitter, subscribe to the [YouTube Channel](https://www.youtube.com/channel/UCgJtBt9DyTrwyMlNdoZJhFQ), or subscribe to the [News and Updates blog](https://mapkeep.substack.com/).
+- [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
 
 ### Doctrine Assessement
 
