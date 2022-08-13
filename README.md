@@ -64,6 +64,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [LearnWardleyMapping.com](https://learnwardleymapping.com/) - Video chapter summaries of Simon Wardley's book, 15-minute introductory course, and a quick reference.
 - [GCATI](https://gcati.org/community/wardley-mapping-community) - Globally recognised Wardley mapping training and certifications; Awareness, Foundation, Practitioner, Strategy Development Workshop and Wardley Mapping BattleCamp.
 - [User Strategy Development with Wardley Maps in Miro](https://www.coursera.org/projects/user-strategy-development-wardley-maps-miro) - Tricia Bagley, Coursera Project Network.
+- [Business Stragy with Wardley Mapping](courses.coryfoy.com/p/business-strategy-with-wardley-mapping) - [Cory Foy](https://twitter.com/cory_foy).
 
 ## Certifications
 
