@@ -73,6 +73,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 ## Maps in the Wild
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
+- [How Open Source Machine Learning Software Shapes AI](https://maxlangenkamp.me/posts/mloss_essay/) - A 4k word summary of Max Langenkamp's Master of Engineering thesis. September 27, 2022.
 - [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/) - By Joaquín Peña Fernández. August 29, 2022.
 - [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/) - By Joaquín Peña Fernández. Sep 16, 2021.
 - [Those virtual battlegrounds…](https://swardley.medium.com/those-virtual-battlegrounds-feb3da18e0f0) - Why video games will become a new battleground for the soul of a country by Simon Wardley. Sep 8, 2021.
