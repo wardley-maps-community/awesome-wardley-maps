@@ -40,7 +40,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
   - E-book - PDF and Kindle [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
   - Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
-  - [Spanish Translation](http://joapen.com/mapasdewardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
+  - [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 - [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - A collection of useful presentation slide decks on a range of topics.
 - [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
@@ -50,6 +50,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - Chapter 2.3 Mapping Your Way Through.
 - [Draw your company strategy: A practical workbook for mapping business strategy](https://www.amazon.com/-/es/Joaqu%C3%ADn-Pe%C3%B1a-Fern%C3%A1ndez/dp/B09QFJ4QDG/) - Visual cards reviewing concepts as user needs, climatic patterns, doctrines, gameplays. Revision of concepts, examples and other strategy topics.
+- [Cuaderno de trabajo para dibujar estrategias: Método y práctica para la estrategia empresarial (Spanish Edition)](https://www.amazon.com/Cuaderno-trabajo-para-dibujar-estrategias/dp/B09KN2M1FP/) -Fichas visuales en las que se repasan conceptos como necesidades de los usuarios, patrones climáticos, doctrinas, esquemas de juego. Repaso de conceptos, ejemplos y otros temas de estrategia.
 
 ## Videos
 
@@ -65,6 +66,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [GCATI](https://gcati.org/community/wardley-mapping-community) - Globally recognised Wardley mapping training and certifications; Awareness, Foundation, Practitioner, Strategy Development Workshop and Wardley Mapping BattleCamp.
 - [User Strategy Development with Wardley Maps in Miro](https://www.coursera.org/projects/user-strategy-development-wardley-maps-miro) - Tricia Bagley, Coursera Project Network.
 - [Business Stragy with Wardley Mapping](courses.coryfoy.com/p/business-strategy-with-wardley-mapping) - [Cory Foy](https://twitter.com/cory_foy).
+- [Spanish, Acelera tu aprendizaje en Mapas de Wardley](https://mapasdewardley.com/estrategia/acelera-tu-aprendizaje/) - Joaquín Peña Fernández, MapasdeWardley.com.
 
 ## Certifications
 
@@ -73,6 +75,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 ## Maps in the Wild
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
+- [Central Bank Digital Currency competitive analysis](https://joapen.com/blog/2022/12/15/central-bank-digital-currency-competitive-analysis/) - Comparison of scenarios between China, EEUU and Europe.
 - [How Open Source Machine Learning Software Shapes AI](https://maxlangenkamp.me/posts/mloss_essay/) - A 4k word summary of Max Langenkamp's Master of Engineering thesis. September 27, 2022.
 - [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/) - By Joaquín Peña Fernández. August 29, 2022.
 - [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/) - By Joaquín Peña Fernández. Sep 16, 2021.
