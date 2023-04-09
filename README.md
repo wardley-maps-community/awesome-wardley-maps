@@ -179,10 +179,16 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 - [Wemvula](https://wemvu.la/docs/pg.why.us.php) - A visual transformation platform that provides the situational awareness to make sense of your interconnected web of needs, ideas, service components, supply contracts and change activities.
 
+## Tools / Scripts
+
+- [Convert WM format to JSON](https://github.com/tractorjuice/wardley-maps-ai/tree/main/wardley_mapping_tools) - A Pyhon script and CoLab notebook that can convert the onelinewardleymap format to JSON. It also flips the [y,x] to [x,y]. Provide the script with the onlinewardleymap #id and it will convert the map to JSON.
+- [Chat with your Map](https://wardley-maps-ai.streamlit.app/chat_with_your_map) - An OpenAI/Streamlit/Python application to chat to your Wardley Map. It pulls your Wardley Map from onlinewardleymaps and you can have an AI chat with your map.
+- [Chat with Simon Wardley Video](https://wardley-maps-ai.streamlit.app/intro_wardley_maps) - An OpenAI/Streamlit/Python application to chat to a Wardley Mapping YouTube video. It pulls the transscript from YouTube and you can have an AI chat with the video.
+
 ## Templates
 
 - [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and an overview of all sorts of mapping tools and techniques.
-
+- 
 ### Mapping
 
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
