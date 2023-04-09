@@ -181,9 +181,9 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ## Tools / Scripts
 
-- [Convert WM format to JSON](https://github.com/tractorjuice/wardley-maps-ai/tree/main/wardley_mapping_tools) - A Pyhon script and CoLab notebook that can convert the onelinewardleymap format to JSON. It also flips the [y,x] to [x,y]. Provide the script with the onlinewardleymap #id and it will convert the map to JSON.
-- [Chat with your Map](https://wardley-maps-ai.streamlit.app/chat_with_your_map) - An OpenAI/Streamlit/Python application to chat to your Wardley Map. It pulls your Wardley Map from onlinewardleymaps and you can have an AI chat with your map.
-- [Chat with Simon Wardley Video](https://wardley-maps-ai.streamlit.app/intro_wardley_maps) - An OpenAI/Streamlit/Python application to chat to a Wardley Mapping YouTube video. It pulls the transscript from YouTube and you can have an AI chat with the video.
+- [Convert WM format to JSON](https://wardleymapsai.streamlit.app/wm2json_(beta)) - A simple streamlit app to convert the onlinewardleymaps wm format to JSON.
+- [Chat with your Map](https://wardleymapsai.streamlit.app/chat_with_your_map) - An OpenAI/Streamlit/Python application to chat to your Wardley Map. It pulls your Wardley Map from onlinewardleymaps and you can have an AI chat with your map.
+- [Chat with Simon Wardley Video](https://wardleymapsai.streamlit.app/intro_wardley_maps) - An OpenAI/Streamlit/Python application to chat to a Wardley Mapping YouTube video. It pulls the transscript from YouTube and you can have an AI chat with the video.
 
 ## Templates
 
