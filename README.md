@@ -75,6 +75,8 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 ## Maps in the Wild
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
+- [How to Build a YouTube Video Query AI Model on Wardley Mapping with Python and OpenAI](https://medium.com/prompt-engineering/how-to-build-a-youtube-video-query-ai-model-with-python-and-openai-5b4b26cf9411) - Blog post on how to create a question & answer application AI app using OpenAI, Streamlit and Python. Full source code provided.
+- [How to Create a Powerful Chatbot in Minutes with Streamlit and OpenAI GPT-3.5](https://medium.com/prompt-engineering/how-to-create-a-powerful-chatbot-in-minutes-with-streamlit-and-openai-gpt-3-5-7954e8e05db0) - Blog post on how to create a Wardley Map chatbot using OpenAI, Streamlit and Python. Full source code provided.
 - [Twitter thread on Wardley Mapping ChatGPT Prompt Enineering](https://twitter.com/mcraddock/status/1641537955507347476) - Twitter thread on Wardley Mapping Prompt Engineering for ChatGPT with many examples.
 - [Central Bank Digital Currency competitive analysis](https://joapen.com/blog/2022/12/15/central-bank-digital-currency-competitive-analysis/) - Comparison of scenarios between China, EEUU and Europe.
 - [How Open Source Machine Learning Software Shapes AI](https://maxlangenkamp.me/posts/mloss_essay/) - A 4k word summary of Max Langenkamp's Master of Engineering thesis. September 27, 2022.
@@ -181,9 +183,11 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ## Tools / Scripts
 
-- [Convert WM format to JSON](https://wardleymapsai.streamlit.app/wm2json_(beta)) - A simple streamlit app to convert the onlinewardleymaps wm format to JSON.
+- [Convert WM format to JSON](https://wardleymapsai.streamlit.app/wm2json) - A simple streamlit app to convert the onlinewardleymaps wm format to JSON.
 - [Chat with your Map](https://wardleymapsai.streamlit.app/chat_with_your_map) - An OpenAI/Streamlit/Python application to chat to your Wardley Map. It pulls your Wardley Map from onlinewardleymaps and you can have an AI chat with your map.
-- [Chat with Simon Wardley Video](https://wardleymapsai.streamlit.app/intro_wardley_maps) - An OpenAI/Streamlit/Python application to chat to a Wardley Mapping YouTube video. It pulls the transscript from YouTube and you can have an AI chat with the video.
+- [Q&A with Simon Wardley Videos](https://https://simongpt.streamlit.app/) - An OpenAI/Streamlit/Python application to ask any question about Wardley Mapping from any of Simon's videos on YouTube. It pulls the transscripts from YouTube and you can have an AI chat with the video.
+- [Q&A with Wardley Community Videos](https://https://wardleygpt.streamlit.app/) - An OpenAI/Streamlit/Python application to ask any question about Wardley Mapping from any of the community videos on YouTube. It pulls the transscripts from YouTube and you can have an AI chat with the video.
+- [Chat with WardleyGPT](https://wardleychatbot.streamlit.app/) - An OpenAI/Streamlit/Python application to have a chat with WardleyGPT.
 
 ## Templates
 
