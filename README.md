@@ -15,7 +15,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [Maps in the Wild](#maps-in-the-wild)
 - [Research Papers](#research-papers)
 - [Apps](#apps)
-- [Tools & Scripts](#tools_&_scripts)
+- [Tools & Scripts](#tools--scripts)
 - [Templates](#templates)
 - [Events](#events)
 - [Workshops](#workshops)
