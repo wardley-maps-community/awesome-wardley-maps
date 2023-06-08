@@ -76,6 +76,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 ## Maps in the Wild
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
+- [What do I use maps for?](https://blog.gardeviance.org/2023/06/what-do-i-use-maps-for.html) - Simon Wardley lists a range of examples. Jun 08, 2023.
 - [How to Build a YouTube Video Query AI Model on Wardley Mapping with Python and OpenAI](https://medium.com/prompt-engineering/how-to-build-a-youtube-video-query-ai-model-with-python-and-openai-5b4b26cf9411) - Blog post on how to create a question & answer application AI app using OpenAI, Streamlit and Python. Full source code provided.
 - [How to Create a Powerful Chatbot in Minutes with Streamlit and OpenAI GPT-3.5](https://medium.com/prompt-engineering/how-to-create-a-powerful-chatbot-in-minutes-with-streamlit-and-openai-gpt-3-5-7954e8e05db0) - Blog post on how to create a Wardley Map chatbot using OpenAI, Streamlit and Python. Full source code provided.
 - [Twitter thread on Wardley Mapping ChatGPT Prompt Enineering](https://twitter.com/mcraddock/status/1641537955507347476) - Twitter thread on Wardley Mapping Prompt Engineering for ChatGPT with many examples.
