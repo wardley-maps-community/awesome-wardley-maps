@@ -186,13 +186,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ### AI
 
-- [Learn about Wardley Maps]((https://stmemgptv2.streamlit.app/)) - Experimental Streamlit AI Assistant bot tuned on Wardley Mapping. Using MemGPT this AI Assistant has memory is divided into three parts: recall memory, core memory, and archival memory. Full source code and data provided in the [GitHub repo](https://github.com/tractorjuice/STMemGPT)
-
-**Recall Memory:** This is my short-term memory where I keep recent interactions.\
-**Core Memory:** This is where I store key details about my persona and about you, the user. This gives me a 'personality' and allows for more personalized conversation.\
-**Archival Memory:** This is my long-term memory where I store information that doesn't fit into core memory but is essential to remember. It's infinite in size, and I usually page through it to find answers to your questions.
-
-These parts work together to help the AI Assistant remember prior engagements, learn from them, and refer back when needed.
+- [Learn about Wardley Maps]((https://stmemgptv2.streamlit.app/)) - Experimental Streamlit AI Assistant bot tuned on Wardley Mapping. Using MemGPT this AI Assistant has memory is divided into three parts: recall memory, core memory, and archival memory. Full source code and data provided in the [GitHub repo](https://github.com/tractorjuice/STMemGPT). Recall Memory: This is my short-term memory where I keep recent interactions. Core Memory: This is where I store key details about my persona and about you, the user. This gives me a 'personality' and allows for more personalized conversation. Archival Memory: This is my long-term memory where I store information that doesn't fit into core memory but is essential to remember. It's infinite in size, and I usually page through it to find answers to your questions. These parts work together to help the AI Assistant remember prior engagements, learn from them, and refer back when needed.
 - [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - Chat to your Wardley Map. It pulls your Wardley Map from OnlineWardleyMaps or GitHub and you can have an AI chat with your map. It creates structured output that can be downloaded and used within documents. It highlights key responses that you can follow up.
 - [Q&A with Simon's Book](https://wardley-book-chat.streamlit.app/) - Ask Simon's book anything. Have a chat with the book.
 - [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research 2022 Wardley Maps.
