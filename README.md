@@ -190,7 +190,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - Chat to your Wardley Map. It pulls your Wardley Map from OnlineWardleyMaps or GitHub and you can have an AI chat with your map. It creates structured output that can be downloaded and used within documents. It highlights key responses that you can follow up.
 - [Q&A with Simon's Book](https://wardley-book-chat.streamlit.app/) - Ask Simon's book anything. Have a chat with the book.
 - [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research 2022 Wardley Maps.
-- [Learn Wardley Mapping Bot](https://wardleymapbot.streamlit.app/) - Learn Wardley Mapping by chatting to a specially configured bot.
+- [Learn Wardley Mapping Bot](https://learnwardleymapping.streamlit.app/) - Learn Wardley Mapping by chatting to a specially configured bot.
 - [Chat with Wardley YouTube content](https://wardleygpt.streamlit.app/) - Have a chat with all of Simon's YouTube content.
 ### Development
 - [Join the Wardley AI Development Group on X/Twitter](https://twitter.com/i/communities/1670015410542985218)
