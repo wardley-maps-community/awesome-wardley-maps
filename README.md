@@ -192,7 +192,6 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research 2022 Wardley Maps.
 - [Learn Wardley Mapping Bot](https://wardleymapbot.streamlit.app/) - Learn Wardley Mapping by chatting to a specially configured bot.
 - [Chat with Wardley YouTube content](https://wardleygpt.streamlit.app/) - Have a chat with all of Simon's YouTube content.
--
 ### Development
 - [Join the Wardley AI Development Group on X/Twitter](https://twitter.com/i/communities/1670015410542985218)
 - [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - Create your own Wardley Mapping code editor in two easy steps.
